@@ -35,7 +35,7 @@ public class CustomerRestController {
         return response;
     }
 
-    Customer convert(Customer Dto dto) {
+    Customer convert(CustomerDto dto) {
         Customer  customer = new Customer ();
         customer.setName(dto.getName());
         customer.setAge(dto.getAge());

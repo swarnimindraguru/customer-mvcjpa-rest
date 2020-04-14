@@ -1,0 +1,9 @@
+com\capg\dao\ICustomerDao.class
+com\capg\controller\CustomerRestController.class
+com\capg\service\ICustomerService.class
+com\capg\entities\Customer.class
+com\capg\config\MyWebApplicationInitializer.class
+com\capg\config\MyWebMVCConfig.class
+com\capg\dao\CustomerDaoImpl.class
+com\capg\dto\CustomerDto.class
+com\capg\service\CustomerServiceImpl.class

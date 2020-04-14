@@ -1,4 +1,4 @@
-package com.cap.service;
+package com.capg.service;
 
 import com.capg.dao.ICustomerDao;
 import com.capg.entities.Customer;
